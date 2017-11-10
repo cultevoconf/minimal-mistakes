@@ -80,18 +80,7 @@ analytics:
   google:
     tracking_id          :
 
-	
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Event
-    url: /cv/
-  - title: Call for Papers
-    url: /publications/
-  - title: Venue
-    url: /code/
-  - title: Registration
-    url: /blog/
+
 
 # Site Author
 author:
@@ -263,3 +252,12 @@ defaults:
       comments: # true
       share: true
       related: true
+	  
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: left
+    values:
+      sidebar:
+        nav: "left"
