@@ -12,19 +12,21 @@ main:
      #url: /sitemap/
 
 left:
-  - title: About
-    url: /about/
+  - title: Meeting details
     children:
-      - title: "What is cultural evolution"
-  - title: Call for Papers
-    url: /cfp/
-  - title: Submission
-    url: /submit/
-  - title: Venue
-    url: /venue/
-    children:
-      - title: "Getting to Tartu"
-  - title: Registration
-    url: /registration/
-  - title: Contact
-    url: /contact/
+    - title: About
+      url: /about/
+      children:
+        - title: "What is cultural evolution"
+    - title: Call for Papers
+      url: /cfp/
+    - title: Submission
+      url: /submit/
+    - title: Venue
+      url: /venue/
+      children:
+        - title: "Getting to Tartu"
+    - title: Registration
+      url: /registration/
+    - title: Contact
+      url: /contact/
