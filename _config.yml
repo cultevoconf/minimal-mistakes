@@ -238,6 +238,8 @@ compress_html:
   ignore:
     envs: development
 
+header:
+  image: /assets/images/image-filename.jpg
 
 # Defaults
 defaults:
@@ -252,8 +254,6 @@ defaults:
       comments: # true
       share: true
       related: true
-	  
-defaults:
   # _docs
   - scope:
       path: ""
