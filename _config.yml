@@ -16,7 +16,7 @@ description              : "Apply now."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser_img.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -267,11 +267,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       sidebar:
         nav: "left"
-      title: "Layout: Header Image Overlay"
+      title: "Cultural Evolution in Arts, Language, Technology"
+      excerpt: "Conference in Tartu, June xx-XX"
       header:
-        excerpt: "Text underneath"
         overlay_image: /assets/images/tartu-botanical-garden-header.jpg
         caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
