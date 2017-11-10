@@ -263,3 +263,12 @@ defaults:
     values:
       sidebar:
         nav: "left"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "left"
