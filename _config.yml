@@ -238,8 +238,6 @@ compress_html:
   ignore:
     envs: development
 
-header:
-  image: /assets/images/screenshot.png
 
 # Defaults
 defaults:
@@ -272,3 +270,5 @@ defaults:
       author_profile: true
       sidebar:
         nav: "left"
+      header:
+        image: /assets/images/screenshot.png
