@@ -16,7 +16,7 @@ description              : "Apply now."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser_img.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cultural evolution conference event"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "In arts, language and technolgy"
+  name             : "Cultural Evolution in Arts, Language, and Technology"
+  avatar           : "/assets/images/teaser_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "3-day meeting in June XX-XX"
   location         : "Tartu, Estonia"
   email            : conference-email@gmail.com
   uri              :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : #@twittername
+  twitter          : twittername
   vine             :
   weibo            :
   xing             :

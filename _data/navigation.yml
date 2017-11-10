@@ -16,16 +16,16 @@ left:
     children:
     - title: About
       url: /about/
-      children:
-        - title: "What is cultural evolution"
+    - title: "- What is cultural evolution"
+      url: /whatis/
     - title: Call for Papers
       url: /cfp/
     - title: Submission
       url: /submit/
     - title: Venue
       url: /venue/
-      children:
-        - title: "Getting to Tartu"
+    - title: "- Getting to Tartu"
+      url: /tartu/
     - title: Registration
       url: /registration/
     - title: Contact
