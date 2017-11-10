@@ -10,8 +10,7 @@ main:
      url: /collection-archive/
    - title: "Registration"
      url: /sitemap/
-	 
-	 
+
 left:
   - title: Getting Started
     children:
