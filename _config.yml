@@ -273,5 +273,5 @@ defaults:
       title: "Layout: Header Image Overlay"
       header:
         excerpt: "Text underneath"
-        image: /assets/images/tartu-botanical-garden-header.jpg
+        overlay_image: /assets/images/tartu-botanical-garden-header.jpg
         caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
