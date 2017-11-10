@@ -270,5 +270,8 @@ defaults:
       author_profile: true
       sidebar:
         nav: "left"
+      title: "Layout: Header Image Overlay"
       header:
+        excerpt: "Text underneath"
         image: /assets/images/tartu-botanical-garden-header.jpg
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
